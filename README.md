@@ -17,8 +17,8 @@ O projeto foi desenvolvido no evento NLW-SETUP da Rockeseat
 <hr>
 
 
- - <a hrel="" > Layout do projeto</a>
- - <a hrel="" > Acesse o site em funcionamento</a>
+ - <a hrel="https://www.figma.com/file/6v2ql9FM01CxQfzBywG7hX/Habits-(e)-(Community)?node-id=75%3A128&t=J4GYjeOZhtZBZYmu-0" > Layout do projeto</a>
+ - <a hrel="https://izaacxavier.github.io/NLW-SETUP/" > Acesse o site em funcionamento</a>
 
 ## Demo
 
