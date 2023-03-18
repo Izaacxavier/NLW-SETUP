@@ -19,7 +19,7 @@ O projeto foi desenvolvido no evento NLW-SETUP da Rockeseat
 
  - [Layout do figma](https://www.figma.com/file/6v2ql9FM01CxQfzBywG7hX/Habits-(e)-(Community)?node-id=75%3A128&t=J4GYjeOZhtZBZYmu-0)
 
- - [Veja o site em funcionamento](https://izaacxavier.github.io/NLW-SETUP/)
+ - [Veja o site em funcionamento](https://izaacxavier.github.io/DesafioBoraCodar-Rocketseat/)
 
 ## Demo
 
